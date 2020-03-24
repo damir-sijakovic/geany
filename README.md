@@ -9,7 +9,7 @@ Extras for https://www.geany.org/ text editor.
 
 Script will start Geany with whatever theme you specify in bash 'start_geany.sh'.
 
-If your theme is light, start your Geany in nice dark theme. 
+If you are using light theme, you can start your Geany in dark theme. 
 
 		#!/bin/sh
 		#start geany with Arc-Darkest theme
